@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://markfernan.github.io/portfolio",
+  "homepage": "https://markfernan.github.io/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
