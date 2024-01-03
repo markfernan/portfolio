@@ -28,11 +28,11 @@ const siteProps = {
   title: "Microsoft Learn Student Ambassador - Alpha",
   title2: "President of BPSU-DOST Organization of Scholars",
   email: "markfernan.simeon@studentambassadors.com",
-  gitHub: "https://github.com/markfernan",
-  instagram: "https://www.instagram.com/mark.fernan",
-  linkedIn: "www.linkedin.com/in/markfernansimeon",
+  gitHub: "markfernan",
+  instagram: "mark.fernan",
+  linkedIn: "markfernansimeon",
   medium: "",
-  twitter: "https://twitter.com/markpernan",
+  twitter: "markpernan",
   youTube: "",
 };
 
