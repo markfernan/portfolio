@@ -1,9 +1,9 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Mark Fernan Simeon",
   "source": "src/index.html",
-  "homepage": "https://markfernan.github.io/portfolio",
+  "homepage": "http://markfernan.github.io/portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
