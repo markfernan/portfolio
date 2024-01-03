@@ -53,8 +53,7 @@ const Home = ({ name, title, title2 }) => {
 
         {/* Move the name and title below the circle */}
         <div style={{ textAlign: "center", color: "white", marginTop: "10px" }}>
-          <h2 style={{ fontWeight: "bold" }}>{name}</h2>
-          <br />
+          <h2 style={{ fontWeight: "bold" }}>{name}</h2><br />
           <h3>{title}</h3>
           <h3>{title2}</h3>
         </div>
